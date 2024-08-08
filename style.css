@@ -1,3 +1,39 @@
+/*
+id{
+background-color: #d4d4d4 !important;
+}
 */
+
+#presentacion {
+    min-height: 88vh;
+    justify-content: start;
+    align-items: center;
+    background-image: url("assets/fondo.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.proyecto {
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+#proyecto-1 {
+    background-image: url('clon.png');
+}
+
+#proyecto-2 {
+    background-image: url('lasreliquias.png');
+}
+
+#proyecto-3 {
+    background-image: url('portafolio.png');
+}
+
+.text-shadow-1 {
+    text-shadow: 0 .125rem .25rem rgba(0, 0, 0, 1);
+}
 
 
